@@ -87,5 +87,23 @@
 			"satellites",
 			"earth"
 		]
-	}
+	},
+
+	{
+		"titolo" : "Lunar Archive Explorer",
+		"descrizione" : "Il Lunar Archive Explorer è una piattaforma digitale che permette di navigare e consultare i dati scientifici e le immagini ad alta risoluzione raccolti durante le missioni sulla Luna.",
+		"immagine" : "LAE.jpeg",
+		"url" : "https://dadiccs.github.io/nasa/",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},
+		"autore" : "Daniele Falcone",
+		"tags" : [
+			"moon",
+			"apollo",
+			"missions"
+		]
+	},
 ]
