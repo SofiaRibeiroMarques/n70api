@@ -89,6 +89,23 @@
 		]
 	},
 	{
+		"titolo" : "Nebula Vision",
+		"descrizione" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"immagine" : "nebulavision.jpg",
+		"url" : "https://ali-0032.github.io/CV429/05_prototipo_3/",
+		"data" : {
+			"giorno" : 21,
+			"mese" : 4,
+			"anno" : 2026
+		},	
+		"autore" : "Alissa Bionda",
+		"tags" : [
+			"Nebula",
+			"NASA70",
+			"educational"
+		]
+	},
+	{
 		"titolo" : "SolarScale",
 		"descrizione" : "Questo progetto esplora il Sistema Solare partendo da una criticità nella sua rappresentazione visiva, spesso poco accurata nel comunicare le reali proporzioni tra dimensioni dei pianeti e distanze nello spazio. Per superare questo limite, il sistema viene scomposto in elementi fondamentali come dimensioni, distanze e movimenti, permettendo una lettura più chiara e comprensibile. Il risultato è una visualizzazione interattiva che traduce dati scientifici in un’esperienza visiva immediata, rendendo percepibili proporzioni normalmente astratte e restituendo in modo efficace la reale struttura del Sistema Solare.",
 		"immagine" : "solarscale.jpg",
