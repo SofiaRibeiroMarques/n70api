@@ -29,4 +29,5 @@ TAG MACRO:
 <br>
 Larghezza massima 1920px
 <br>
-[https://ixd-supsi.github.io/n70api/data.json](https://ixd-supsi.github.io/n70api/data.json)
+
+https://ixd-supsi.github.io/n70api/data.json
