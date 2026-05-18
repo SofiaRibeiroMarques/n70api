@@ -238,8 +238,8 @@
 		]
 	},
 	{
-		"titolo": "Titolo progetto",
-		"descrizione": "Descrizione progetto",
+		"titolo": "NEO Protocol",
+		"descrizione": "Neo-Sentinel is an interactive web ecosystem designed to monitor Near-Earth Objects (NEOs) in real time. Developed to celebrate NASA's 70th anniversary, the project transforms complex astrometric data streams from the Jet Propulsion Laboratory (JPL) into a space surveillance interface.",
 		"immagine": [
 			"neoprotocol_1.jpg",
 			"neoprotocol_2.jpg"
