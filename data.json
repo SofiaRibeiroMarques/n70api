@@ -304,25 +304,5 @@
 		"tags": [
 			"spacesuit"
 		]
-	},
-	{
-		"titolo" : "NEO Protocol",
-		"descrizione": "Explore the cosmic neighbourhood through an interactive 3D simulation that tracks real-time NASA data to monitor asteroids around the Earth.",
-		"immagine" : "NEO_Protocol.jpg",
-		"url": "https://melissabroggini.github.io/NEO_Protocol/",
-		"data" : {
-			"giorno" : 23,
-			"mese" : 4,
-			"anno" : 2026
-		},
-		"autore" : "Melissa Broggini",
-		"tags" : [
-			"NEO",
-			"Near Earth Object",
-			"3D simulator",
-			"Asteroids",
-			"Real Life Data",
-			"Radar"
-		]
 	}
 ]
