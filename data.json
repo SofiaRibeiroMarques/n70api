@@ -8,9 +8,9 @@
 		],
 		"url": "https://riccardovosti.github.io/TESTGRAVITY/",
 		"data": {
-			"giorno": 21,
+			"giorno": 1,
 			"mese": 4,
-			"anno": 2026
+			"anno": 2028
 		},
 		"autore": "Riccardo Vosti",
 		"tags": [
@@ -30,9 +30,9 @@
 		],
 		"url": "https://naheleee.github.io/Progetto_1_PerseveranceRover/",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 3,
+			"mese": 12,
+			"anno": 2028
 		},
 		"autore": "Nahele Belli",
 		"tags": [
@@ -52,16 +52,16 @@
 	},
 	{
 		"titolo": "Radiowawe NASA",
-		"descrizione": "Radiowawe NASA is an interactive digital archive that collects and visually presents the ten most iconic audio transmissions in NASA history.",
+		"descrizione": "Radiowave NASA is an interactive digital archive of the ten most iconic audio transmissions in NASA's history, from Armstrong's One Small Step onward. Each recording is paired with synchronized, translated transcriptions shown in real time through expressive, large-scale typography that turns spoken words into a visual experience.",
 		"immagine": [
-			"Radiowawe_NASA_1.jpg",
-			"Radiowawe_NASA_2.jpg"
+			"radiowave_1.jpg",
+			"radiowave_2.jpg"
 		],
 		"url": "https://claudio-ceppi.github.io/CV429.01-Interaction-Design/Radiowave_NASA/files/",
 		"data": {
-			"giorno": 21,
+			"giorno": 28,
 			"mese": 4,
-			"anno": 2026
+			"anno": 2028
 		},
 		"autore": "Claudio Ceppi",
 		"tags": [
@@ -74,16 +74,16 @@
 	},
 	{
 		"titolo": "Other Worlds",
-		"descrizione": "An interactive exploration of 11 confirmed exoplanets from the NASA Exoplanet Archive, selected to show the extreme diversity of worlds beyond our solar system.",
+		"descrizione": "An interactive exploration of 11 confirmed exoplanets from the NASA Exoplanet Archive, selected to show the extreme diversity of worlds beyond our solar system. From planets in the habitable zone to ultra-hot gas giants where it rains molten iron.",
 		"immagine": [
 			"otherworlds_1.jpg",
 			"otherworlds_2.jpg"
 		],
 		"url": "https://djordjaa.github.io/Other_Worlds/",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 23,
+			"mese": 1,
+			"anno": 2028
 		},
 		"autore": "Djordja Krsteva",
 		"tags": [
@@ -97,16 +97,16 @@
 	},
 	{
 		"titolo": "MoonPrint",
-		"descrizione": "This interactive archive explores how global media reported the Apollo 11 moon landing in July 1969. Through dynamic visualization, the site compares journalistic narratives from different countries, highlighting differences in tone, language, and perspective among international publications. The project illuminates the geopolitical context of the Cold War, contrasting the triumphant enthusiasm of Western media with the more sober, technical coverage in the Soviet bloc countries. It was created to celebrate NASA's 70th anniversary.",
+		"descrizione": "This interactive archive explores how global media reported the Apollo 11 moon landing in July 1969  through visual comparisons of international newspapers, highlighting differences in tone, language, and perspective. The project shows how countries around the world reacted to this historic event, revealing how culture, politics, and national identity shaped the way the story was told.",
 		"immagine": [
 			"moonprint_1.jpg",
 			"moonprint_2.jpg"
 		],
 		"url": "https://sofiaribeiromarques.github.io/NASA/progetto/index.html",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 12,
+			"mese": 10,
+			"anno": 2028
 		},
 		"autore": "Sofia Ribeiro Marques",
 		"tags": [
@@ -127,9 +127,9 @@
 		],
 		"url": "https://carladegennaro.github.io/interaction_design/progetto_1.2/",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 13,
+			"mese": 11,
+			"anno": 2028
 		},
 		"autore": "Carla De Gennaro",
 		"tags": [
@@ -145,14 +145,14 @@
 		"titolo": "Lunar Archive Explorer",
 		"descrizione": "The Lunar Archive Explorer is a digital platform that allows you to navigate and consult the scientific data and high-resolution images collected during missions to the Moon.",
 		"immagine": [
-			"..._1.jpg",
-			"..._2.jpg"
+			"lunararchive_1.jpg",
+			"lunararchive_2.jpg"
 		],
 		"url": "https://dadiccs.github.io/nasa/",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 6,
+			"mese": 11,
+			"anno": 2028
 		},
 		"autore": "Daniele Falcone",
 		"tags": [
@@ -169,16 +169,16 @@
 	},
 	{
 		"titolo": "Nebula Vision",
-		"descrizione": "Nebula Vision offers a guided journey to discover the Eagle and Helix nebulae, key Milky Way pillars for understanding the origin and fate of our Solar System. Leveraging the Spitzer Space Telescope’s infrared technology, the site peers through cosmic dust to analyze scientific data otherwise invisible to the naked eye.",
+		"descrizione": "Nebula Vision offers a guided journey through the Eagle and Helix nebulae to understand our Solar System. Using the Spitzer Telescope’s infrared tech, the site pierces cosmic dust to reveal scientific data invisible to the naked eye.",
 		"immagine": [
 			"nebulavision_1.jpg",
 			"nebulavision_2.jpg"
 		],
 		"url": "https://ali-0032.github.io/Nebula_Vision/05_prototipo_3/",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 6,
+			"mese": 5,
+			"anno": 2028
 		},
 		"autore": "Alissa Bionda",
 		"tags": [
@@ -191,16 +191,16 @@
 	},
 	{
 		"titolo": "SolarScale",
-		"descrizione": "This project explores the Solar System starting from a clear critical issue. Many widely used representations do not accurately conveythe proportions between planetary sizes and the distances in space. The scale of the Solar System is indeed so immense that a faithful representation within a single image is impossible, often leading to misleading simplifications. To overcome this limitation, the project deconstructs the system into three primary elements, planetary sizes, positions and distances, creating an interactive visualization that translates scientific data into a clear and immediate visual experience, making the true scale of the Solar System tangible.",
+		"descrizione": "Exploring the true scale of the Solar System, often distorted in common representations, this interactive experience visualizes planetary sizes, positions and distances. It reveals the real proportions and spatial relationships between planets in a simplified and intuitive way.",
 		"immagine": [
 			"solarscale_1.jpg",
 			"solarscale_2.jpg"
 		],
 		"url": "https://lucamazzolaa.github.io/SolarScale/",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 8,
+			"mese": 11,
+			"anno": 2028
 		},
 		"autore": "Luca Mazzola",
 		"tags": [
@@ -225,9 +225,9 @@
 		],
 		"url": "https://laura-pantani.github.io/NASA-P1/p1/",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 25,
+			"mese": 11,
+			"anno": 2028
 		},
 		"autore": "Laura Pantani",
 		"tags": [
@@ -239,16 +239,16 @@
 	},
 	{
 		"titolo": "NEO Protocol",
-		"descrizione": "Neo-Sentinel is an interactive web ecosystem designed to monitor Near-Earth Objects (NEOs) in real time. Developed to celebrate NASA's 70th anniversary, the project transforms complex astrometric data streams from the Jet Propulsion Laboratory (JPL) into a space surveillance interface.",
+		"descrizione": "NEO Protocol is a cutting-edge interactive web ecosystem designed to monitor Near-Earth Objects (NEOs) in real time. Developed to celebrate NASA's 70th anniversary, the project transforms complex astrometric data streams from the Jet Propulsion Laboratory (JPL) into a space surveillance interface.",
 		"immagine": [
 			"neoprotocol_1.jpg",
 			"neoprotocol_2.jpg"
 		],
 		"url": "https://melissabroggini.github.io/NEO_Protocol/",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 10,
+			"mese": 2,
+			"anno": 2028
 		},
 		"autore": "Melissa Broggini",
 		"tags": [
@@ -266,16 +266,16 @@
 	},
 	{
 		"titolo": "Beyond The Myth",
-		"descrizione": "Beyond The Myth is a relational digital ecosystem that maps the evolution of astronomical knowledge, documenting the fundamental transition from mythological narrative to measurable scientific proof. The core of the project is a timeline of paradigms that weaves together chronology, narrative insights, and iconographic materials, serving as the backbone for a system of hyperlinks between historical figures and scientific instruments. Through the use of interactive tags, users can navigate transversally between scientists' biographies and the evolution of instrumentation, observing how tools transformed from rudimentary analog objects into complex digital technologies. This exploratory journey finds its final validation in the Observatory section, an area dedicated exclusively to real-time numerical data where dynamic calculations—such as the distance traveled by light during the browsing session or the exact time elapsed since the launch of Sputnik—transform historical suggestion into a tangible and objective scientific reality.",
+		"descrizione": "Beyond The Myth is a digital ecosystem mapping the evolution of astronomical knowledge, from myth to scientific proof. Through an interactive timeline, it links key figures and instruments and lets you explore the shift from analog to digital.",
 		"immagine": [
-			"..._1.jpg",
-			"..._2.jpg"
+			"beyondthemyth_1.jpg",
+			"beyondthemyth_2.jpg"
 		],
 		"url": "https://...",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 9,
+			"mese": 7,
+			"anno": 2028
 		},
 		"autore": "Michelle Chicherio",
 		"tags": [
@@ -289,20 +289,25 @@
 	},
 	{
 		"titolo": "Spacesuit evolution",
-		"descrizione": "Spacesuit Evolution è un progetto che racconta l’evoluzione delle tute spaziali della NASA dagli anni ’60 fino al 2011, attraversando i principali programmi dell’esplorazione umana: Mercury, Gemini, Apollo e Space Shuttle.",
+		"descrizione": "Spacesuit Evolution is a project that explores the evolution of NASA spacesuits from the 1960s to 2011, covering the major human space exploration programs: Mercury, Gemini, Apollo, and the Space Shuttle.",
 		"immagine": [
-			"..._1.jpg",
-			"..._2.jpg"
+			"spacesuits_1.jpg",
+			"spacesuits_2.jpg"
 		],
-		"url": "https://davidebarattini.github.io/media/spacesuit-evolution/index.html",
+		"url": "https://davidebarattini.github.io/Nasa_Spacesuits/",
 		"data": {
-			"giorno": 21,
-			"mese": 4,
-			"anno": 2026
+			"giorno": 6,
+			"mese": 3,
+			"anno": 2028
 		},
 		"autore": "Davide Barattini",
 		"tags": [
-			"spacesuit"
+			"educational",
+			"spacesuits",
+			"mission",
+			"timeline",
+			"visor",
+			"explore"
 		]
 	}
 ]
